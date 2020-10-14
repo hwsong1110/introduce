@@ -2,10 +2,7 @@
 
 
 
+![data science](https://user-images.githubusercontent.com/63955034/95966004-96c5a680-0e45-11eb-8c7e-4ab2ffed5069.PNG)
 
-![최종 professional certicification](https://user-images.githubusercontent.com/63955034/95965164-937deb00-0e44-11eb-9738-70202a7c812b.PNG)
-
-
-
-![KakaoTalk_20200813_192537802](https://user-images.githubusercontent.com/63955034/95965449-ea83c000-0e44-11eb-85dd-8113449f5793.png)
+![ai for everyone](https://user-images.githubusercontent.com/63955034/95965950-86153080-0e45-11eb-8ae7-bf751d3c16be.png)
 
