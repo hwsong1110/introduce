@@ -1,7 +1,7 @@
 # Song Heewon (송희원) portfolio
 
 ## Student from
-##### DGIST 기초학부 20학번
+### DGIST 기초학부 20학번
 <h2>
 
 
