@@ -12,7 +12,7 @@
 
 
  ## COVID-19 / EPIDEMIC PREVENTION IDEATHON(2020.05)
-### HEALTHCARE & IMMUNITY CHECKUP WITH BLOOD TEST KIT STAYING AT HOMEF
+### HEALTHCARE & IMMUNITY CHECKUP WITH BLOOD TEST KIT STAYING AT HOME
 #### -가정에서 면역력 진단, 면역력 모니터링, 맞춤 정보 서비스 구상
 #### -가정에서 혈구 분획 검사 시료 회수를 위한 진단 키트 디자인
 #### -비즈니스 모델 설계
