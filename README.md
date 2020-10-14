@@ -1,6 +1,6 @@
-# 송희원 개인 포트폴리오
+# Song Heewon (송희원) portfolio
 
-## 학적
+## Student from
 ##### DGIST 기초학부 20학번
 <h2>
 
