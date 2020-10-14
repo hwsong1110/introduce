@@ -13,3 +13,6 @@
 
 ## IDEATHON(2020.05) 
 ### -HEALTHCARE & DIAGNOSIS WITH BLOOD TEST KIT STAYING AT HOMEF
+-가정에서 면역력 진단, 면역력 모니터링, 맞춤 정보 서비스 구상
+-가정에서 혈구 분획 검사를 위한 진단 키트 디자인
+-비즈니스 모델 설계
