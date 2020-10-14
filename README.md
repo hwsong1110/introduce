@@ -1,6 +1,7 @@
 # Song Heewon (송희원) portfolio
 
 ### DGIST 기초학부 20학번
+### github profile : https://github.com/hwsong1110
 
 ## Certification 
 1. Data Science Foundation Professional Certification (study from IBM, 2020.07)
